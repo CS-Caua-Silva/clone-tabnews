@@ -1,9 +1,8 @@
 function Home() {
-    return <h1>Amor eu te amoooooooooooooooo
+    return <h1>Teste 4
 
-        Linda, gostosa, belissima, maravilhosa, perfeita
-
-        <p>Eu te amo muito minha vida</p> 
+        <p>Olá, Mundo!</p> 
+        
     </h1>
     
 }
