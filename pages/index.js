@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Oi, continue tentando!</h1>
+    return <h1> Agora sim, o conteúdo está certo</h1>
     
 }
 
